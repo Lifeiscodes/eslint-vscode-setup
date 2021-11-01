@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Lifeiscodes/eslint-vscode-setup/issues"
   },
-  "homepage": "https://github.com/Lifeiscodes/eslint-vscode-setup#readme"
+  "homepage": "https://github.com/Lifeiscodes/eslint-vscode-setup#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
 }
